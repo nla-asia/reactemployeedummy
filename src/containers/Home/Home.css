@@ -1,0 +1,10 @@
+.Home {
+    border:1px solid #eeeeee;
+    padding:20px;
+    text-align:left;
+    min-height:500px;
+}
+
+.btn {
+    margin-left:2px;
+}
